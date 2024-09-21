@@ -15,7 +15,7 @@ import os
 import os
 
 EMAIL_HOST_USER = os.getenv('rashmivartika5@gmail.com')
-EMAIL_HOST_PASSWORD=os.getenv('kvkt xerh bkkk frbq')
+EMAIL_HOST_PASSWORD=os.getenv('')
 
 # settings.py (for testing purposes)
 
@@ -141,4 +141,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'rashmivartika5@gmail.com'
-EMAIL_HOST_PASSWORD = 'kvkt xerh bkkk frbq'
+EMAIL_HOST_PASSWORD = ''
