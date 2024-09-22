@@ -9,6 +9,7 @@ A comprehensive platform for online learning, facilitating course management, st
 - Enrollment and progress tracking
 - Assessment tools (quizzes, assignments)
 - Discussion forums
+- Feedbacks and Complaints section 
 
 ## Technologies Used
 - HTML, CSS, JavaScript
