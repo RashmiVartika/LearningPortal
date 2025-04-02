@@ -20,6 +20,9 @@ A comprehensive platform for online learning, facilitating course management, st
 - Frontend: Bootstrap
 - Backend: Django
 
+![Screenshot (6)](https://github.com/user-attachments/assets/92afe6eb-d397-4b3c-b34e-f518201e55cc)
+
+
 ## Installation
 1. Navigate to the directory: `cd elearningsystem`
 2. Start the server: `python manage.py runserver`
